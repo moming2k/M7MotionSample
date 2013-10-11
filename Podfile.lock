@@ -1,0 +1,38 @@
+PODS:
+  - AFNetworking (2.0.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.0.1)
+  - AFNetworking/Security (2.0.1)
+  - AFNetworking/Serialization (2.0.1)
+  - AFNetworking/UIKit (2.0.1):
+    - AFNetworking/NSURLConnection
+  - CocoaLumberjack (1.6.2)
+  - Objection (HEAD based on 1.2)
+  - SSToolkit (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (>= 0.5.1)
+  - CocoaLumberjack
+  - Objection (HEAD)
+  - SSToolkit
+
+SPEC CHECKSUMS:
+  AFNetworking: a6f11ac4ac087303e6ff87adc1ba57b0dac20ef8
+  CocoaLumberjack: d73e1e317ced14ab930797dda6c17156ff17aaa1
+  Objection: 39f4abb42cddbeed7cb20e4a02a30217955d76a1
+  SSToolkit: 689acaedac79c2079e492e528a55bcb5db9d98c4
+
+COCOAPODS: 0.26.1
